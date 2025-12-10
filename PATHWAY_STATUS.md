@@ -1,8 +1,12 @@
 # GitHub Skills Learning Pathway Status
 
+## Overview
+
+This repository is following the GitHub Skills "Introduction to GitHub" learning pathway. The automated setup has progressed through the first two steps, and the pathway is now ready for manual completion of steps 3 and 4.
+
 ## Current Progress
 
-The GitHub Skills "Introduction to GitHub" learning pathway has been set up and is ready for completion.
+The GitHub Skills "Introduction to GitHub" learning pathway has been set up and automated through step 2.
 
 ### Completed Steps:
 
@@ -47,4 +51,25 @@ Branch `my-first-branch` exists with commit history:
 
 ## How to Continue:
 
-Visit the repository on GitHub and follow the instructions in the README.md to complete Step 3 and Step 4.
+To complete the learning pathway:
+
+1. Visit the repository on GitHub at https://github.com/kingdomseed/skills-introduction-to-github
+2. Follow the instructions in the README.md on the main branch to complete Step 3:
+   - Navigate to the Pull Requests tab
+   - Click "New pull request"
+   - Set base branch to `main` and compare branch to `my-first-branch`
+   - Create the pull request with title "Add my first file"
+3. After the PR is created, the workflow will automatically progress to Step 4
+4. Follow the Step 4 instructions to merge the pull request and complete the learning pathway
+
+## Files in This Repository
+
+- `PROFILE.md`: The profile README file created as part of the learning pathway (contains "Welcome to my GitHub profile!")
+- `README.md`: Contains the current step instructions (currently showing Step 3)
+- `.github/workflows/`: Contains the automated GitHub Actions workflows that manage the learning pathway progression
+- `.github/steps/`: Contains the instruction content for each step
+- `.github/steps/-step.txt`: Tracks the current step number (currently: 3)
+
+## Note for Copilot Branch
+
+This branch (`copilot/create-learning-pathway-github`) has merged the content from `my-first-branch` to demonstrate the state of the learning pathway. However, for the learning pathway to officially progress, a pull request must still be created from `my-first-branch` to `main` in the main repository.
