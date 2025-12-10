@@ -14,24 +14,24 @@ To complete the learning pathway, follow these manual steps:
 
 ### Step 3: Open a Pull Request
 
-1. Go to your repository on GitHub: https://github.com/kingdomseed/skills-introduction-to-github
-2. Click on the **"Pull requests"** tab
-3. Click the **"New pull request"** button
-4. Select the branches:
+a. Go to your repository on GitHub: https://github.com/kingdomseed/skills-introduction-to-github
+b. Click on the **"Pull requests"** tab
+c. Click the **"New pull request"** button
+d. Select the branches:
    - **base**: `main`
    - **compare**: `my-first-branch`
-5. Click **"Create pull request"**
-6. Add a title: `Add my first file`
-7. Add a description explaining what you've done
-8. Click **"Create pull request"** to submit
-9. Wait ~20 seconds and refresh - GitHub Actions will automatically update to Step 4!
+e. Click **"Create pull request"**
+f. Add a title: `Add my first file`
+g. Add a description explaining what you've done
+h. Click **"Create pull request"** to submit
+i. Wait ~20 seconds and refresh - GitHub Actions will automatically update to Step 4!
 
 ### Step 4: Merge Your Pull Request
 
-1. Once the pull request is created and any checks pass, click **"Merge pull request"**
-2. Click **"Confirm merge"**
-3. After merging, click **"Delete branch"** to clean up `my-first-branch`
-4. Wait ~20 seconds and refresh - GitHub Actions will show the course as complete!
+a. Once the pull request is created and any checks pass, click **"Merge pull request"**
+b. Click **"Confirm merge"**
+c. After merging, click **"Delete branch"** to clean up `my-first-branch`
+d. Wait ~20 seconds and refresh - GitHub Actions will show the course as complete!
 
 ## Expected Outcome
 

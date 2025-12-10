@@ -53,14 +53,14 @@ Branch `my-first-branch` exists with commit history:
 
 To complete the learning pathway:
 
-1. Visit the repository on GitHub at https://github.com/kingdomseed/skills-introduction-to-github
-2. Follow the instructions in the README.md on the main branch to complete Step 3:
+a. Visit the repository on GitHub at https://github.com/kingdomseed/skills-introduction-to-github
+b. Follow the instructions in the README.md on the main branch to complete Step 3:
    - Navigate to the Pull Requests tab
    - Click "New pull request"
    - Set base branch to `main` and compare branch to `my-first-branch`
    - Create the pull request with title "Add my first file"
-3. After the PR is created, the workflow will automatically progress to Step 4
-4. Follow the Step 4 instructions to merge the pull request and complete the learning pathway
+c. After the PR is created, the workflow will automatically progress to Step 4
+d. Follow the Step 4 instructions to merge the pull request and complete the learning pathway
 
 ## Files in This Repository
 
